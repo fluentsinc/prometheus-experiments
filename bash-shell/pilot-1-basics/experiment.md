@@ -29,7 +29,7 @@
 
 ## **Current Working Directory**
 
-- ### **Current working directory** is the current directory that is being worked by the computer's RAM. So when you play a mp4 file named "Cool" inside the movies directory that's in your root directory. You are working the "Cool" movie with your RAM. The **current working directory** in this case is the directory with the **directory tree** `/movies`. If you didn't expend work with your RAM, you wouldn't have found the "Cool.mp4" file inside the movies directory.
+- ### **Current working directory** is the current directory that is being worked by the computer's RAM. So when you play a mp4 file named "Cool" inside the movies directory that's in your root directory. You are working the "Cool" movie with your RAM. The **current working directory** in this case is the directory with the **directory tree** `/movies`. If you didn't expend(spend energy) work with your RAM, you wouldn't have found the "Cool.mp4" file inside the movies directory.
 
 - ### Let's say, you changed your mind and you wanted to watch a action movie in the action directory found in the root directory. When you change into the action directory, the **current working directory** is the action directory and the `directory tree` is `/action`.
 
