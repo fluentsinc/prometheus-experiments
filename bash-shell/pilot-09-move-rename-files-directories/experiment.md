@@ -6,7 +6,7 @@
 
 2. ### To rename a file, the pattern is: `mv old-name new-name`. To rename a file named "old.txt" to "new.txt. You would execute: `mv old.txt new.txt". Same pattern for directories. `mv old-directory new-directory`. 
 
-3. ### Refer pdf-reader-page-no. 62 for a complete list of **options** available for `mv` command and the examples with the `mv` command. 
+3. ### Refer pdf-reader-page-no. 62 for a complete list of **options** available for `mv` command and some examples for `mv` command. 
 
 ## **Reference**
 

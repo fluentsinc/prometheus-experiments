@@ -13,7 +13,7 @@
 
 3. ### Now to copy this "source" directory into destination directory, try this command `cp -r source destination`. Here, the option `-r` is necessary to copy directories, it tells the `cp` command to recursively(like a domino falling, first one hits the second one and second one hits the third one and so on and so forth) copy all the contents of the directory. So the option `-r` tells `cp` to copy all the files inside "source". And if "source" has any directories, copy all the contents in those directories too and do this recursively until there are no more files left. For example, the command `cp -r source destination` recursively copies "source" directory into "destination" directory. 
  
-3. ### Refer pdf-reader-page-no. 61 for a complete list of **options** available for `cp` command and the examples with the `cp` command. 
+3. ### Refer pdf-reader-page-no. 61 for a complete list of **options** available for `cp` command and some examples for `cp` command. 
 
 ## **Reference**
 
