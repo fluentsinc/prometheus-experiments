@@ -6,7 +6,7 @@
 
 2. ### To delete directories, you always need to specify the `-r` option so that it recursively deletes the directories and subdirectories. The pattern is `rm -r directoryname` will delete the directory with the specified name. 
 
-3. ### Refer pdf-reader-page-no. 62 for a complete list of **options** available for `rm` command and some examples for `rm` command. 
+3. ### Refer pdf-reader-page-no. 63,64 for a complete list of **options** available for `rm` command and some examples for `rm` command. 
 
 ## **Reference**
 
