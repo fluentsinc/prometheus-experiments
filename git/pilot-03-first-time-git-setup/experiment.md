@@ -16,6 +16,8 @@
 
 5. ### Now every time you **commit**, Git uses the above information for your commits for all the Git repos that you create with this user. 
 
+6. ### Execute `git config --list` to see all your configuration settings. 
+
 ## **Reference**
 
 [Pro Git]()
