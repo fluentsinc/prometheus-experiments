@@ -30,7 +30,7 @@
 
 9. ### Each version of files stored in a **git repo** is called a **commit**. Each commit has a hash value associated with it. Each commit also has a commit message, commit time/date, commit author and author's email associated with it. 
 
-10. ### Always execute the Git commands after you change directory `cd` into the git repo. 
+10. ### Always execute the Git commands after you change directory `cd` into the git repo.
 
 
 ## **Reference**
