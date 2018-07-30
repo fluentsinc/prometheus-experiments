@@ -13,7 +13,7 @@
 
 1. ### Open up Visual Studio Code. Press `ctrl + ~` to open up the integrated command line interpreter. In Windows, there's the 'Command Prompt'. In Linux, command line interpreters are called 'Terminal'. Anyway, since we want to learn bash shell on a Windows PC, we have installed `MINGW64`, a bash shell simulator for Windows. Typically, terminals show the sign `username@machinename`. So in the gif which I've blurred out a little bit, the username is "Achilles Troy" and machine name is "DESKTOP-" and some letters. Below it, you can see the dollar sign `$`. That's the Shell prompt. The bash shell is prompting you to type some commands. You can tell why in Windows they call "command line interpreter or terminal emulator" as command prompt. Because it's prompting you to type commands.  
 
-![](../images/pilot-1/pilot-1-built-in-command-line.png)
+![](../images/pilot-01/built-in-command-line.png)
 
 2. ### Now enter this command `blitz` to see what happens when a command does not exist. You should get a "bash: blitz: command not found" error message. In fact, this is the error you would get if you use command names that don't exist.  Try all these commands one by one to get a feel for this type of error: `Ace` `Achilles` `Britano` `SilverLight` `Zovial` `Daredevil` `Troy`. All these commands should give you the same error message. To finish things off, try your own command names that give this error. It could be any command name like `jdwijd`.
 

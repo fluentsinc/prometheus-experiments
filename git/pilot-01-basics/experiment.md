@@ -1,12 +1,12 @@
 # **Basics**
 
-## Git is a version control system that records changes to a file or a set of files over time with the ability to recall specific earlier versions. 
+## Git is a version control system. Version control lets you record changes to a file or a set of files over time. You can not only record changes but you have the ability to recall specific earlier versions. 
 
-## Git is also a distributed revision control system which is a form of version control system where the entire codebase(software code of a project) is found in each developer's computer. And each codebase in each developer's computer is a mirror of a remote hosted codebase which is usually hosted in git-hosting sites like github. 
+## Git is also called a distributed revision control system which is a form of version control system where all the versions of the entire codebase(software code of a project) is found in each developer's computer. So each codebase in each developer's computer is a mirror of a remote hosted codebase which is usually hosted in git-hosting sites like github. If someone changed something on the remote codebase, every developer could see the change in his own local codebase on his computer. This is possible because 
 
 ## When a developer changes the codebase in his/her codebase and updates those changes to the remote hosted codebase, all the developers working on the codebase gets notified of the changes made. 
 
-## So with Git, you can easily see the changes made over time. Revert(return back) the codebase to an earlier time if a developer screwed something up. Every developer could work on the codebase remotely without any dependence on other developers working on the same codebase.
+## So with Git, you can easily see the changes made over time. Revert(return back) the codebase to an earlier time if a developer screwed something up. The idea is that, every developer should be able to work on the codebase remotely without any dependence on other developers working on the same codebase.
 
 # **Experiment**
 
@@ -20,7 +20,7 @@
 
 4. ### When you save your changes to the local database, the file's state is **Committed** because the file with the changes is committed(saved) to the local database which is actually inside the **git directory**.
 
-5. ### When you change a file but don't save the change to the local database, it's state is **Modified**. And the file is in the **working tree** or **working directory** which is a checkout(get a saved version out of local or remote database) of one version out of all the versions of the files that are already saved to the local database. Here, the **modified** files are in **working directory** because you modified a version of files that have already been saved to the local database. 
+5. ### When you modify a file's contents but don't save the change to the local database, it's state is **Modified**. **Working directory** is the folder that you've turned into a Git repo. When you turn an empty folder into a Git repo, we say the **working directory** is empty. So if you had files in it, we say that the **working directory** contains files. As you can see, the contents of a working directory always changes as you modify the files in the directory, they are not snapshots like the ones saved in the local database. So when you save a file into the local database and modify that saved file, the   
 
 6. ### When you modify files in your **working directory**, you may want to selectively save certain files or you may want to save all the files that have changed. We need to tell Git about what we're trying to do. Once we've made our choice, we need to tell Git to put certain modified files or all modified files in **staged** state. When files are in **staged** state, they are ready to be **committed**(saved) to the local database. **Staged** files are temporarily saved in the **staging area** which is inside the **git directory**. 
 

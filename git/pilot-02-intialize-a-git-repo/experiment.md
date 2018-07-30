@@ -10,7 +10,7 @@
 
 4. ### Do `cd stars` to get into the "stars" directory. Execute `git init` to turn this normal local directory into a Git repo. Once you execute this command, you can see a ".git" directory created on the project directory. This ".git" directory consists of the database where Git's going to save the **commits**. Since directories that start with a `.` are hidden directories, it won't be able to view this ".git" directory in Linux/Unix environments. Execute `ls -la` to see this hidden ".git" directory.
 
-5. ### When we executed the `git init` command and created the ".git" directory, the normal local directory has been turned into a Git repo. Now with our example, we've initialized the "stars" directory into a Git repo. Likewise, once you delete the ".git" directory inside the "stars" Git repo, "stars" directory goes back to being a normal directory.  
+5. ### When we executed the `git init` command and created the ".git" directory, the normal local directory has been turned into a Git repo. Now with our example, we've initialized the "stars" directory into a Git repo. Likewise, the moement you delete the ".git" directory inside the "stars" Git repo, "stars" directory goes back to being a normal directory.  
 
 ## **Reference**
 
