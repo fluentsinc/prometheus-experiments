@@ -8,12 +8,12 @@
 
 ### 3. As you learn from the pilots, you should always follow the playcall: 
 
-### `playground tree`. 
+### `playground tree |:prometheus-experiments| |:adventurist|`. 
 
-### 3. If the experiments tell you to enter something into **"master.md"** file, it means you need to follow the playcall:
+### 3. If the experiments tell you to enter something into **"master.md"** file, it means you need to follow the play call:
 
-### `markdown master |adventurist|`.
+### `rookie-markdown mirror |adventurist|`.
 
-### 4. If the experiments tell you to execute something, you need to follow both of these playcalls: 
+### 4. If the experiments tell you to execute something, you need to follow both of these play calls: 
 
-### `scriptx |adventurist|` and `scriptx terminal`.
+### `rookie-scriptx mirror |adventurist|` and `rookie-scriptx terminal`.
