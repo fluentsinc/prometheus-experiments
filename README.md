@@ -8,7 +8,7 @@
 
 ### 3. As you learn from the pilots, you should always follow the playcall: 
 
-### `playground tree |prometheus-experiments| |adventurist|`. 
+### `playground tree |Pro-X| |adventurist|`. 
 
 ### 3. If the experiments tell you to enter something into **"master.md"** file, it means you need to follow the play call:
 
