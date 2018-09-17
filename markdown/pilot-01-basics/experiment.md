@@ -10,7 +10,7 @@
 
 ### **1.** Look at all the markdown markups in this cheatsheat created by Adam Pritchard: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-### **2.** Enter something into "master.md" using markdown markups. Play around with the markups. 
+### **2.** Enter something into "master.md" using markdown markups. Play around with the markups. You should've used atleast five markups as you enter something into "master.md". 
 
 
 ## **Reference**
