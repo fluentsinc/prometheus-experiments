@@ -1,6 +1,6 @@
 # **Basics**
 
-## **Bash shell** is a type of shell program found in some operating systems like Unix and Linux. Shell program is a computer program that takes commands that you would enter via a keyboard and returns an output based on the command you had issued(executed). Bash shell short for Bourne-again shell is a modern improvement over other shell programs that existed before it (Steve Bourne is the name of the British Mathematician and Computer Scientist that created the first bash shell program "sh"). Other shell programs like bash are sh, zsh, tcsh, ksh, csh etc. Bash shell was created by Brian Fox to extend the functionalities of the original sh program hence the name "bourne-again shell" aka bash shell.   
+## **Bash shell** is a type of shell program found in some operating systems like Unix and Linux. Shell program is a computer program that takes commands that you would enter via a keyboard and returns an output based on the command you had issued(executed). Bash shell short for Bourne-again shell is a modern improvement over other shell programs that existed before it (Steve Bourne is the name of the British Mathematician and Computer Scientist that created the first bash shell program "sh"). Other shell programs like bash are sh, zsh, tcsh, ksh, csh etc. Bash shell was created by Brian Fox to extend the functionalities of the original sh program hence the name "bourne-again shell" _**aka**_ bash shell.   
 
 ## Shell programs like Bash have one function: they take commands from you and pass those commands to the operating system which either executes the commands or throws a error back to you. Shell programs are also referred to as just "shell" or "command-line interpreter"(since shell programs interpets lines of commands). 
 
@@ -21,11 +21,11 @@
 
 ### **2.** Shell programs like Bash shell are usually written in C. Thus, shell programs are essentially C programs. Take a look at this repository to see the actual C program that makes up the bash shell: https://github.com/bminor/bash. Look for a file named "shell.c" in the repo. Enter the number of lines into "master.md". Shell usually contains other tiny C programs built into it. These tiny C programs are referred to as _**"built-in"**_ shell commands because they are _**built-in**_ into the shell program so you don't have to install them yourself. These programs are usually referred to as `coreutils` short for "core utilities". My interpretation of the naming of `coreutils` is that, just as a sculptor needs _**utilities**_ like a hammer and a chisel to _**carve out**_ a statue. A programmer needs these core utilities to create great programs. When you execute a built-in command on the bash shell, the bash shell is essentially executing the C program of the command. Let's try a few built-in commands: 
 
-### - type `whoami` into your terminal and execute the command by pressing "enter". The `whoami` command outputs the user name of your computer. 
+- ###  type `whoami` into your terminal and execute the command by pressing "enter". The `whoami` command outputs the user name of your computer. 
 
-### - execute `date` to get the current date. 
+- ###  execute `date` to get the current date. 
 
-### - execute `df` to see your disk's free space information. 
+- ###  execute `df` to see your disk's free space information. 
 
 ### You can actually look at the actual C program of these commands. Go to the `GNU/coreutils` repository on Github: https://github.com/coreutils/coreutils. Look for a folder named "src" short for "source code". Inside the "src" folder, you'll find C programs: "whoami.c", "date.c" and "df.c".  View these C programs and enter the number of lines each of them got into "master.md". 
 
