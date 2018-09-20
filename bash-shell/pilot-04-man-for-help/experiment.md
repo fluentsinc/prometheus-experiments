@@ -13,8 +13,6 @@
 
 ### `echo hello shell` 
 
-### **4.** The `echo` command _**comes in handy**_ when we try to log information as a "bash script" code is being executed. For example, you can echo "installed" when a "bash script" had installed a certain software. Or you can echo "failed" or "error" when a bash script runs into trouble. The `echo` command thus makes it easy to know what's going on in your "bash script". 
-
 ## **Reference**
 
 ### [The Linux Command Line]()
