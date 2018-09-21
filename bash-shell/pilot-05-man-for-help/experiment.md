@@ -18,7 +18,7 @@
 ### Look for the "Author" subheading and enter the name into "master.md"
 
 
-### **3.** You need to use the down arrow to scroll down the manual page. Execute the following commands:
+### **3.** You need to use the down arrow key to scroll down the manual page. Execute the following commands:
 
 ### `man man`
 
