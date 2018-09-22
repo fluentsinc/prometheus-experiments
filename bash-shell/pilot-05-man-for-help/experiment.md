@@ -22,7 +22,7 @@
 
 ### `man man`
 
-### As you can see, we can actually call `man on `man` itself since `man` is itself a C program that displays the manual pages. 
+### As you can see, we can actually call man on `man` itself since `man` is itself a C program that displays the manual pages. 
 
 ### Look for the "History" subheading way down below and enter the author name into "master.md". 
 
