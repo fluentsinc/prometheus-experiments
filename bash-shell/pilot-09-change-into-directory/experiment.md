@@ -12,7 +12,7 @@
 
 ### `cd`
 
-### When you enter `cd` without a pathname, the current working directory gets changed to the currently logged-in user's home directory.  
+### When you enter `cd` without a pathname, the current working directory gets changed to the currently logged-in user's home directory by default.  
 
 ## **Reference**
 
