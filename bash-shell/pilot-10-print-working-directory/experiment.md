@@ -16,6 +16,8 @@
 
 ### `cd`
 
+### `pwd`
+
 ### Enter the output of the above command into "master.md"
 
 
