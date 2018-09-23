@@ -10,7 +10,11 @@
 
 ### **3.** The **pathnames** are always in a tree structure. That is, just as a real world tree, the pathnames start with the "root" directory. Inside the root directory, you might have several subdirectories. Kinda like how in the real world, you have the root of a tree and as you go up the tree, you might find several branches. The subdirectories inside the root directory might have several subdirectories themselves. Again, similar to the real world tree where each branch has several other branches. 
 
-### **4** The root directory is always referred to as the top level directory kinda like the top floor in a tall building. The subdirectories inside the root directory are referred to as "one level down" just like you would in a real building. The subdirectory inside one of the subdirectories inside the root directory is referred to as "two levels down" and so and so forth. Go back to experiment-#1, take a look at the **path** you got from `pwd`. Enter the names of "one level down" and "two levels down" directories into "master.md".     
+### For example, `/root/user/fluents` is a pathname. The pathname started with the root directory. Then, inside the root directory, there was a directory named "root". Inside the "root" directory, there was _**in turn**_ another directory named "user". Inside the "user" directory, there is a directory named "fluents" where the pathname finally ends. `fluents` is the directory that the pathname `/root/user/fluents` was trying to locate. 
+
+### Similarly, you could have a pathname that points to a file location. The pathname `/root/user/fluents/fluents.sh` points to a file named "fluents.sh". 
+
+### **5** The root directory is always referred to as the top level directory kinda like the top floor in a tall building. The subdirectories inside the root directory are referred to as "one level down" just like you would in a real building. The subdirectory inside one of the subdirectories inside the root directory is referred to as "two levels down" and so and so forth. Go back to experiment-#1, take a look at the **path** you got from `pwd`. Enter the names of "one level down" and "two levels down" directories into "master.md".     
 
 
 
