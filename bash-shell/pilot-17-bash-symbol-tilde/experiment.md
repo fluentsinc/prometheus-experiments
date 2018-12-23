@@ -54,7 +54,7 @@
 
 ### `echo ~`
 
-### Enter the output of the above command into "mater.md". 
+### Enter the output of the above command into "master.md". 
 
 ### `cd /`
 

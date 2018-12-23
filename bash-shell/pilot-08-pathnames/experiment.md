@@ -16,7 +16,7 @@
 
 ### **4.** A pathname, for example `/user/fluents`, is always chained with a forward slash `/` to denote the hierarchy of directories, subdirectories and files. In other words, the first forward slash `/` in the pathname `/user/fluents` refers to the root directory. The second forward slash `/user/fluents` tells you to go inside the "user" directory to find a directory named "fluents". The second forward slash, in this example `/user/fluent.sh`,  could also tell you to go inside "user" directory to find a file. Files are always denoted with an extension(like: .js, .java, .sh) unlike directories.    
 
-### **5.** The root directory is always referred to as the top level directory kinda like the top floor in a tall building. The subdirectories inside the root directory are referred to as "one level down" just like you would in a real building. The subdirectory inside one of the subdirectories inside the root directory is referred to as "two levels down" and so and so forth. Go back to experiment-#1, take a look at the **path** you got from `pwd`. Enter the names of "one level down" and "two levels down" directories into "master.md".     
+### **5.** The root directory is always referred to as the top level directory kinda like the top floor in a tall building. The subdirectories inside the root directory are referred to as "one level down" just like you would in a real building. The subdirectory inside one of the subdirectories inside the root directory is referred to as "two levels down" and so and so forth. Go back to experiment-#1, take a look at the **path** you got from `pwd`. Enter the names of "one level down" and "two levels down" directories into "master.md".      
 
 
 
